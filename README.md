@@ -12,7 +12,17 @@ Our goal is to create a curated digital library of high-quality, working robotic
 2.  **Fork and Use:** Fork the project to your own GitHub account. This creates your own copy to work with.
 3.  **Build Your Application:** Use the forked project as a launchpad for your coursework, personal projects, or competitions. You are free to modify it in any way you like.
 
-You are not required to contribute your changes back, but we would love to see what you build!
+---
+
+## Our Projects
+
+### 1. [ROS2-Tutorial-Getting-Started](https://github.com/SG-Robotics-Open-Source/ROS2-Tutorial-Getting-Started)
+**▶️ START HERE!** This is a simple, fun project designed to teach you the basic workflow of cloning, building, and running a ROS 2 project.
+
+### 2. [ros2-project-orion-ugv](https://github.com/SG-Robotics-Open-Source/ros2-project-orion-ugv)
+**🤖 ADVANCED SIMULATION.** A complete software stack for an autonomous Mecanum-wheel robot. Use this as a foundation for advanced navigation, mapping, and sensor integration projects.
+
+---
 
 ## For Seniors
 
