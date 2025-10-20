@@ -16,10 +16,10 @@ Our goal is to create a curated digital library of high-quality, working robotic
 
 ## Our Projects
 
-### 1. [ROS2-Tutorial-Getting-Started](https://github.com/SG-Robotics-Open-Source/ROS2-Tutorial-Getting-Started)
+### 1. [ros2_tutorial_ws](https://github.com/SG-Robotics-Open-Source/ros2_tutorial_ws)
 **▶️ START HERE!** This is a simple, fun project designed to teach you the basic workflow of cloning, building, and running a ROS 2 project.
 
-### 2. [ros2-project-orion-ugv](https://github.com/SG-Robotics-Open-Source/ros2-project-orion-ugv)
+### 2. [ros2_orion_ws](https://github.com/SG-Robotics-Open-Source/ros2_orion_ws)
 **🤖 ADVANCED SIMULATION.** A complete software stack for an autonomous Mecanum-wheel robot. Use this as a foundation for advanced navigation, mapping, and sensor integration projects.
 
 ---
